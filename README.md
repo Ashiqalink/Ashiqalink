@@ -29,6 +29,7 @@ I built visual-ai-game-engine, which turns webcam face, hand and body tracking i
 
 I also made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 12 hours for a game jam.
 
+I also built FLOODGATE, a solo entry for Epic Game Jam 2026 made in Unreal Engine 5.8. It is a rain-soaked 2.5D stealth noir where you play a thief racing a rising flood to open the waterworks gate, and every kill darkens the night. A second playthrough, Take 2, removes the killing and offers four endings.
 ## A few of my projects
 
 | Project | Description |
