@@ -29,7 +29,7 @@ I built visual-ai-game-engine, which turns webcam face, hand and body tracking i
 
 I also made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 12 hours for a game jam.
 
-## Selected projects
+## A few of my projects
 
 | Project | Description |
 | --- | --- |
