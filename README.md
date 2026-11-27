@@ -37,10 +37,3 @@ I also made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 1
 | [visual-ai-games](https://github.com/Ashiqalink/visual-ai-games) | Camera-controlled games you play with your hands and body, no controller needed |
 | [explainingquantumcomputer](https://github.com/Ashiqalink/explainingquantumcomputer) | Interactive 3D explainer of how a superconducting quantum computer works |
 | [quantum-workbook](https://github.com/Ashiqalink/quantum-workbook) | Quantum computing workbook in HTML |
-
-## Links
-
-- Website: [ashiqalink.github.io](https://ashiqalink.github.io)
-
-
-
