@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Ashiq Ali N K</h1>
 
 <p align="center">
-  Game and software developer based in Kochi, Kerala, India
+  Developer working on games and on-device AI, based in Kochi, Kerala, India
 </p>
 
 <p align="center">
@@ -16,24 +16,25 @@
 
 ## About
 
-I build games and the tools behind them, with a focus on AI-driven gameplay, computer vision input and game engines. I also work on local AI tools and visual explainers. I like projects where the result is something you can run, click or play.
+I build games and local AI tools, and I am interested in running AI on-device. My current focus is NPUs: what they can handle, how much energy they use compared with the GPU and CPU, and how to route work between them. I like projects where the result is something you can run, click or play.
 
-## Games I have built
+## On-device AI and NPUs
 
-**Camera-controlled games.** The visual-ai-games collection runs on my own engine, visual-ai-game-engine, which tracks face, hands and body from a webcam and turns them into game input and physics. The games include:
+- Testing workloads across NPU, GPU and CPU, including energy use
+- Using OpenVINO-based accelerator support in my game engine for camera tracking
+- Building open-simplify to run repetitive tasks on local models instead of cloud LLMs
 
-- duckhunt, flappy, depthpong and depthlanes, classic arcade ideas played with your hands and depth sensing
-- punchy and signduel, which respond to punches and hand signs
-- sling, cradle, avatarcatch, conductor and sculptor, which explore physics, catching, conducting and shaping with body movement
+## Games
 
-**Game jam entry.** Coup d'Etat, Baby! (codexjam) is a low-poly stealth-brawler about blackmail and a very dirty election. I built it in 12 hours. You sneak, loot, fight and blackmail five officials to win the presidency.
+I built visual-ai-game-engine, which turns webcam face, hand and body tracking into game input and physics. The visual-ai-games collection runs on it and includes duckhunt, flappy, depthpong, punchy and signduel, all played without a controller.
+
+I also made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 12 hours for a game jam.
 
 ## Selected projects
 
 | Project | Description |
 | --- | --- |
 | [visual-ai-game-engine](https://github.com/Ashiqalink/visual-ai-game-engine) | Python game engine with a visual AI focus |
-| [codexjam](https://github.com/Ashiqalink/codexjam) | Coup d'Etat, Baby!, a low-poly stealth-brawler built in 12 hours for a game jam |
 | [visual-ai-games](https://github.com/Ashiqalink/visual-ai-games) | Camera-controlled games you play with your hands and body, no controller needed |
 | [open-simplify](https://github.com/Ashiqalink/open-simplify) | Automates simple, repetitive tasks with local AI instead of cloud LLMs |
 | [explainingquantumcomputer](https://github.com/Ashiqalink/explainingquantumcomputer) | Interactive 3D explainer of how a superconducting quantum computer works |
@@ -42,5 +43,6 @@ I build games and the tools behind them, with a focus on AI-driven gameplay, com
 ## Links
 
 - Website: [ashiqalink.github.io](https://ashiqalink.github.io)
+
 
 
