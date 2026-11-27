@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Ashiq Ali N K</h1>
 
 <p align="center">
-  Developer working on games and on-device AI, based in Kochi, Kerala, India
+  Developer working on games and AI tools, based in Kochi, Kerala, India
 </p>
 
 <p align="center">
@@ -16,18 +16,18 @@
 
 ## About
 
-I build games and local AI tools, and I am interested in running AI on-device. My current focus is NPUs: what they can handle, how much energy they use compared with the GPU and CPU, and how to route work between them. I like projects where the result is something you can run, click or play.
+I build games and local AI tools. I like projects where the result is something you can run, click or play.
 
-## On-device AI and NPUs
+## Hobby: NPU, CPU and iGPU comparisons
 
-- Testing workloads across NPU, GPU and CPU, including energy use
+- Comparing how the NPU, CPU and integrated GPU handle the same workloads, including energy use
 - Using OpenVINO-based accelerator support in my game engine for camera tracking
 
 ## Games
 
 I built visual-ai-game-engine, which turns webcam face, hand and body tracking into game input and physics. The visual-ai-games collection runs on it and includes duckhunt, flappy, depthpong, punchy and signduel, all played without a controller.
 
-I also made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 12 hours for a game jam.
+I made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 12 hours for a game jam.
 
 I also built FLOODGATE, a solo entry for Epic Game Jam 2026 made in Unreal Engine 5.8. It is a rain-soaked 2.5D stealth noir where you play a thief racing a rising flood to open the waterworks gate, and every kill darkens the night. A second playthrough, Take 2, removes the killing and offers four endings.
 ## A few of my projects
