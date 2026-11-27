@@ -22,7 +22,6 @@ I build games and local AI tools, and I am interested in running AI on-device. M
 
 - Testing workloads across NPU, GPU and CPU, including energy use
 - Using OpenVINO-based accelerator support in my game engine for camera tracking
-- Building open-simplify to run repetitive tasks on local models instead of cloud LLMs
 
 ## Games
 
@@ -36,7 +35,6 @@ I also made Coup d'Etat, Baby! (codexjam), a low-poly stealth-brawler built in 1
 | --- | --- |
 | [visual-ai-game-engine](https://github.com/Ashiqalink/visual-ai-game-engine) | Python game engine with a visual AI focus |
 | [visual-ai-games](https://github.com/Ashiqalink/visual-ai-games) | Camera-controlled games you play with your hands and body, no controller needed |
-| [open-simplify](https://github.com/Ashiqalink/open-simplify) | Automates simple, repetitive tasks with local AI instead of cloud LLMs |
 | [explainingquantumcomputer](https://github.com/Ashiqalink/explainingquantumcomputer) | Interactive 3D explainer of how a superconducting quantum computer works |
 | [quantum-workbook](https://github.com/Ashiqalink/quantum-workbook) | Quantum computing workbook in HTML |
 
