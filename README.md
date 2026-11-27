@@ -16,7 +16,7 @@
 
 ## About
 
-I build games and local AI tools. I like projects where the result is something you can run, click or play.
+I build games and local AI tools. I like projects where the result is something you can run, click or play. I also  love learning about technology that is not yet implemented practically (So currently learning Quantum Computing)
 
 ## Games
 
