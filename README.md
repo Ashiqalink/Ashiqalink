@@ -18,11 +18,6 @@
 
 I build games and local AI tools. I like projects where the result is something you can run, click or play.
 
-## Hobby: NPU, CPU and iGPU comparisons
-
-- Comparing how the NPU, CPU and integrated GPU handle the same workloads, including energy use
-- Using OpenVINO-based accelerator support in my game engine for camera tracking
-
 ## Games
 
 I built visual-ai-game-engine, which turns webcam face, hand and body tracking into game input and physics. The visual-ai-games collection runs on it and includes duckhunt, flappy, depthpong, punchy and signduel, all played without a controller.
@@ -38,3 +33,5 @@ I also built FLOODGATE, a solo entry for Epic Game Jam 2026 made in Unreal Engin
 | [visual-ai-games](https://github.com/Ashiqalink/visual-ai-games) | Camera-controlled games you play with your hands and body, no controller needed |
 | [explainingquantumcomputer](https://github.com/Ashiqalink/explainingquantumcomputer) | Interactive 3D explainer of how a superconducting quantum computer works |
 | [quantum-workbook](https://github.com/Ashiqalink/quantum-workbook) | Quantum computing workbook in HTML |
+
+As a hobby, I compare how the NPU, CPU and integrated GPU handle the same workloads, including energy use. My game engine also uses OpenVINO-based accelerator support for camera tracking.
