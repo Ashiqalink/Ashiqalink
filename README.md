@@ -34,4 +34,4 @@ I also built FLOODGATE, a solo entry for Epic Game Jam 2026 made in Unreal Engin
 | [explainingquantumcomputer](https://github.com/Ashiqalink/explainingquantumcomputer) | Interactive 3D explainer of how a superconducting quantum computer works |
 | [quantum-workbook](https://github.com/Ashiqalink/quantum-workbook) | Quantum computing workbook in HTML |
 
-As a hobby, I compare how the NPU, CPU and integrated GPU handle the same workloads, including energy use. My game engine also uses OpenVINO-based accelerator support for camera tracking.
+I am also interested in NPUs and what they can do to improve performance and battery life. I want to use them for efficiency, and I test them against the CPU and integrated GPU, including energy use. My game engine also uses OpenVINO-based accelerator support for camera tracking.
