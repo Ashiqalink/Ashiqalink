@@ -18,24 +18,29 @@
 
 I build games and the tools behind them, with a focus on AI-driven gameplay, computer vision input and game engines. I also work on local AI tools and visual explainers. I like projects where the result is something you can run, click or play.
 
-## Gaming focus
+## Games I have built
 
-- Building a Python game engine with a visual AI approach
-- Making small games that use AI and computer vision
-- Entering game jams to ship playable prototypes quickly
+**Camera-controlled games.** The visual-ai-games collection runs on my own engine, visual-ai-game-engine, which tracks face, hands and body from a webcam and turns them into game input and physics. The games include:
+
+- duckhunt, flappy, depthpong and depthlanes, classic arcade ideas played with your hands and depth sensing
+- punchy and signduel, which respond to punches and hand signs
+- sling, cradle, avatarcatch, conductor and sculptor, which explore physics, catching, conducting and shaping with body movement
+
+**Game jam entry.** Coup d'Etat, Baby! (codexjam) is a low-poly stealth-brawler about blackmail and a very dirty election. I built it in 12 hours. You sneak, loot, fight and blackmail five officials to win the presidency.
 
 ## Selected projects
 
 | Project | Description |
 | --- | --- |
 | [visual-ai-game-engine](https://github.com/Ashiqalink/visual-ai-game-engine) | Python game engine with a visual AI focus |
-| [visual-ai-games](https://github.com/Ashiqalink/visual-ai-games) | Games built with the visual AI approach |
+| [codexjam](https://github.com/Ashiqalink/codexjam) | Coup d'Etat, Baby!, a low-poly stealth-brawler built in 12 hours for a game jam |
+| [visual-ai-games](https://github.com/Ashiqalink/visual-ai-games) | Camera-controlled games you play with your hands and body, no controller needed |
 | [open-simplify](https://github.com/Ashiqalink/open-simplify) | Automates simple, repetitive tasks with local AI instead of cloud LLMs |
 | [explainingquantumcomputer](https://github.com/Ashiqalink/explainingquantumcomputer) | Interactive 3D explainer of how a superconducting quantum computer works |
-| [workout-planner](https://github.com/Ashiqalink/workout-planner) | Workout planning tool written in Python |
 | [quantum-workbook](https://github.com/Ashiqalink/quantum-workbook) | Quantum computing workbook in HTML |
 
 ## Links
 
 - Website: [ashiqalink.github.io](https://ashiqalink.github.io)
+
 
